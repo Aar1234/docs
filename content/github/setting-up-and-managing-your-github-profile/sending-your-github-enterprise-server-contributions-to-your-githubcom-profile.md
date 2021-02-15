@@ -1,4 +1,5 @@
----
+<> 
+sending-your-github-enterprise-server-contributions-to-your-githubcom-profile.md
 title: Sending your GitHub Enterprise Server contributions to your GitHub.com profile
 intro: 'You can highlight your work on {% data variables.product.prodname_ghe_server %} by sending the contribution counts to your {% data variables.product.prodname_dotcom_the_website %} profile.'
 redirect_from:
